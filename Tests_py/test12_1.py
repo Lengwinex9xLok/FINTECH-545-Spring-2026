@@ -36,4 +36,4 @@ out_df = pd.DataFrame({
     "Theta": thetas
 })
 
-out_df.to_csv("data/testout12_1S.csv", index=False)
+out_df.to_csv("data/testout12_1.csv", index=False)
